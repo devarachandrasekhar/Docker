@@ -1,5 +1,5 @@
 FROM alarmz/centos6
 
-LABEL name="devara chandrasekhar"
-LABEL age="25"
-LABEL status="singel"
+LABEL name="devara chandrasekhar"\
+      age="25" \
+      status="singel"
