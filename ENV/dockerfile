@@ -1,0 +1,6 @@
+FROM almaliniux:8
+
+ENV NAME=chandra \
+    AGE=25 \
+    GOAL=DevOpsEng 
+    
