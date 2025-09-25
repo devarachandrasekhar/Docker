@@ -1,3 +1,4 @@
 FROM almalinux:8
 
 ADD hello.txt/ tmp 
+ADD https://app.enhancv.com/resume-checker/report/68d491dd31afdd23384b66d2?isWithGenerateSummary=false /tmp
