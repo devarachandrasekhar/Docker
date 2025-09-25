@@ -1,0 +1,3 @@
+FROM almalinux/9-base
+
+ADD hello.txt/ tmp 
