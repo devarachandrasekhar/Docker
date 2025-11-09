@@ -1,3 +1,3 @@
-FROM almaliniux:8
+FROM almalinux:8
 
 CMD [ "yahoo.com" ]
