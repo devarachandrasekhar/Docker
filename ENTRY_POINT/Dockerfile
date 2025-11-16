@@ -15,4 +15,4 @@ RUN echo "Hello, welcome to Dockerfile. A way of creating own image" > /usr/shar
 
 #CMD [ "nginx" , "-g" , "daemon off;" ]
 
-CMD [ "nginx" , "-g" , "daemon off;" ]
+ENTRYPOINT [ "nginx" , "-g" , "daemon off;" ]
